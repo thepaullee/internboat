@@ -1,0 +1,9 @@
+.companyPost{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.company-card{
+    display: flex;
+}
