@@ -4,6 +4,7 @@
     justify-content: space-around;
 }
 
-.company-card{
+.company-cards{
     display: flex;
+    justify-content: center;
 }
